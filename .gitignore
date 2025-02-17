@@ -400,5 +400,6 @@ FodyWeavers.xsd
 *.sln.iml
 
 #P5.js libraries
-*/p5.js
-*/p5.sound.min.js
+
+*p5.js
+*p5.sound.min.js
